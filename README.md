@@ -152,10 +152,6 @@ The notebook includes the analysis, model-comparison loop, and export commands. 
 
 Python, pandas, NumPy, scikit-learn, Joblib, Streamlit, Matplotlib, Seaborn, and Jupyter Notebook.
 
-## Demonstration
-
-A short screen recording can demonstrate entering fictional example values, selecting Predict, and viewing the result. Narration is optional. Screenshots or a video link can be added to this README once those media are available.
-
 ## Author
 
 **Sharf Ur Rehman**  
