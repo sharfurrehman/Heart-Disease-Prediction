@@ -127,9 +127,6 @@ source .venv/bin/activate
 ```bash
 python -m pip install -r requirements.txt
 ```
-
-The dependency file pins the inspected local versions of the analysis packages and scikit-learn 1.7.2, matching the supplied model artifacts. Streamlit 1.52 or later within major version 1 is required for the app's `text_alignment` arguments, as documented in the [Streamlit release notes](https://docs.streamlit.io/develop/quick-reference/release-notes/2025#version-1520). This is a dependency specification, not a fully locked environment; a fresh installation has not been verified.
-
 ### 3. Launch the application
 
 ```bash
